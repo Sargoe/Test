@@ -1,0 +1,17 @@
+"Gamemode"
+{
+	"base"		"sandbox"
+    "title"  "CNRPG"
+    "version"   "0.0.1"
+    "menusystem"	"1"
+
+    "author_name"   "Sargoe85"
+    "author_email"  "Sargoe@msn.com"
+    "author_url"    "^"
+
+    "maps"  "^rpg_"
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}

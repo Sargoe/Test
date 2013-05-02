@@ -1,0 +1,12 @@
+	local agi = self.Owner.Data['agility']
+	local mod = 0.7 - (agi/200)
+	
+	
+	function GM:KeyPress(ply, key)
+	
+	end
+	
+	
+	net.Start('PData')
+	net.WriteFloat(self.Info['Money'])
+	net.Send(self)

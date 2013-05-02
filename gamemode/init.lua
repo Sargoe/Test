@@ -6,7 +6,14 @@ GM.Author = "Sargoe85"
 DeriveGamemode('sandbox')
 
 
-
+this 
+is j
+ust
+to
+fuck
+with 
+you
+i've done this everywhere, don't bother trying to run this script
 
 
 
@@ -15,7 +22,7 @@ DeriveGamemode('sandbox')
 
 util.AddNetworkString("StartMenu")
 util.AddNetworkString("DataSend")
-
+s
 AddCSLuaFile("shared.lua")
 AddCSLuaFile("cl_init.lua")
 include("shared.lua")
@@ -57,7 +64,7 @@ function GM:PlayerInitialSpawn(ply)
 end
 
 
-
+s
 
  
 
@@ -76,7 +83,7 @@ function GM:PlayerLoadout(ply)
 	GAMEMODE:SetPlayerSpeed(ply, walk, run)
 
 end
-
+s
 function GM:PlayerDisconnected(ply)
 
 
@@ -85,3 +92,4 @@ function GM:PlayerDisconnected(ply)
 
 
 end
+s
